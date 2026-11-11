@@ -4,7 +4,7 @@ title: FitSnack Privacy Policy
 
 # FitSnack Privacy Policy
 
-_Effective: October 16, 2026_
+_Effective: November 11, 2026_
 
 FitSnack ("the app", "we", "us") is published by Rotem Tal, Hermon 36, Mevaseret Tsion, Israel. This policy explains what data the app handles, where that data goes and what you can do about it.
 
@@ -93,16 +93,23 @@ When you first set up the app, and until your analytics region is settled, it se
 
 The country is not stored with your analytics events and the IP address is not stored by the app. If the request fails, the app falls back to the region set on your phone.
 
-## 7. Why we process data (legal bases)
+## 7. Voice coach downloads
+
+The voice that speaks during workouts is built into the app. To offer other voices and re-recorded lines without an app update, the app downloads a short list of available voices from **Google Cloud Storage** each time it starts. It downloads a voice's recordings when you pick that voice, and a few sample recordings when you tap its sample button. These files are the same for everyone.
+
+These requests carry no ID, no profile data and nothing from your calendar. Like any website you visit, Google sees your phone's IP address when it delivers the files. The downloads happen whether or not statistics are on. The voice you pick is stored only on your phone, and picking or previewing a voice is counted by the statistics in section 4 under the same consent rules.
+
+## 8. Why we process data (legal bases)
 
 For users in the EEA, the UK and Switzerland:
 
 - **Analytics and crash reports**: your consent (GDPR Article 6(1)(a)). You can withdraw it in Settings at any time.
 - **Region lookup**: our legitimate interest (Article 6(1)(f)) in setting sensible defaults and in asking for consent only where the law requires it.
+- **Voice downloads**: our legitimate interest (Article 6(1)(f)) in delivering the voices and recordings the app offers.
 
 Data stored only on your phone is processed by the app on your device and not by us.
 
-## 8. Your rights and how to use them
+## 9. Your rights and how to use them
 
 Depending on where you live, you may have the right to access, correct, delete or move your data, to object to or restrict its use, and to withdraw consent.
 
@@ -117,31 +124,31 @@ When you use **Settings > Clear all data**, or switch analytics off, the app del
 
 You also have the right to complain to your local data protection authority.
 
-## 9. Sharing
+## 10. Sharing
 
 We share data only with the providers named above (Mixpanel, Google and FreeIPAPI), who process it for us. We do not sell or rent your data, share it for advertising, or combine it with data from other sources. We may disclose data if the law requires it.
 
-## 10. International transfers
+## 11. International transfers
 
 Mixpanel and Google store data in the United States. Where data from the EEA, the UK or Switzerland is transferred there, it is protected by the EU-US Data Privacy Framework and its UK and Swiss extensions, or by Standard Contractual Clauses, as described in each provider's data processing terms.
 
-## 11. Security
+## 12. Security
 
 Data stored on your phone is protected by your phone's own app sandboxing. Data sent to our providers travels over encrypted connections (HTTPS).
 
-## 12. Children
+## 13. Children
 
 FitSnack is not directed at children under 16 and we do not knowingly collect data from them. If you believe a child has used the app and statistics were sent, contact us with the Analytics ID and we will delete them.
 
-## 13. Health information
+## 14. Health information
 
 FitSnack is a general wellness app and not a medical device. The sore spots you enter are used on your phone to pick suitable exercises, and are never sent anywhere except as a count.
 
-## 14. Changes to this policy
+## 15. Changes to this policy
 
 If we change this policy, we will update the date at the top and, for significant changes, tell you in the app.
 
-## 15. Contact
+## 16. Contact
 
 Rotem Tal  
 Hermon 36, Mevaseret Tsion, Israel  
