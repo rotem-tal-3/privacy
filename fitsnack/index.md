@@ -4,7 +4,7 @@ title: FitSnack Privacy Policy
 
 # FitSnack Privacy Policy
 
-_Effective: November 11, 2026_
+_Effective: November 23, 2026_
 
 FitSnack ("the app", "we", "us") is published by Rotem Tal, Hermon 36, Mevaseret Tsion, Israel. This policy explains what data the app handles, where that data goes and what you can do about it.
 
@@ -52,7 +52,8 @@ To understand which features are used and where the app fails, FitSnack sends us
 - Whether reminders were delivered, opened or dismissed
 - Summary values about your use, such as streak length, number of upcoming reminders, intensity and workout length
 - Times of day in broad buckets only (morning, midday, afternoon, evening)
-- Technical details: platform, app version and operating system version
+- Technical details: platform, app version and operating system version, and on Android the phone's maker and the maker's system version (for example HyperOS 2.0), never the model
+- On Android, whether the phone lets FitSnack run in the background (Autostart, battery optimisation and background limits), and how an earlier FitSnack process ended (for example closed by the system), so we can tell when a phone holds reminders back
 - The country you picked for holidays, if you picked one
 - A random ID created when the app is installed, so events from the same install can be grouped
 
